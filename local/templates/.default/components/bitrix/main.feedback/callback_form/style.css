@@ -1,0 +1,27 @@
+
+div.mf-name,
+div.mf-email,
+div.mf-captcha,
+div.mf-message {
+    width: 100%;
+    padding-bottom: .4em;
+}
+div.mf-name input,
+div.mf-email input {
+    width: 100%;
+}
+div.mf-message textarea {
+    width: 100%;
+
+    resize: vertical;
+}
+span.mf-req {
+    color: red;
+}
+div.mf-ok-text {
+    padding-bottom: 1em;
+
+    font-weight: bold;
+
+    color: green;
+}

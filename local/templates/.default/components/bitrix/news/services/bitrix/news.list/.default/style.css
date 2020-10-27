@@ -1,0 +1,24 @@
+div.news-list {
+    word-wrap: break-word;
+}
+div.news-list img.preview_picture_services {
+    float: left;
+    margin: 0 14px 6px 0;
+
+    box-shadow: 0 0 5px gray;
+}
+p.news-item {
+    margin-top: 1rem;
+}
+.news-date-time {
+    color: #486daa;
+}
+span.news-date-time {
+    color: red;
+}
+p.preview-text {
+    font-family: monospace;
+}
+.price {
+    margin-left: 16px;
+}
